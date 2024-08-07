@@ -286,6 +286,19 @@ nav img{
     margin-left: 30px;
 }
 
+.adc-escrita{
+    width: 520px;
+    height: 50px;
+    border: none;
+    background-color: #F4E8D9;
+    border-radius: 50px;
+}
+
+.resm-escrita{
+    width: 530px;
+    height: 123px;
+}
+
 .info-contato .info-maior{
     width: 530px;
     height: 123px;
